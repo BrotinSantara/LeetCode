@@ -55,12 +55,14 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BrotinSantara/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/BrotinSantara/LeetCode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/BrotinSantara/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BrotinSantara/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BrotinSantara/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/BrotinSantara/LeetCode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/BrotinSantara/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -74,4 +76,9 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BrotinSantara/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/BrotinSantara/LeetCode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/BrotinSantara/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
