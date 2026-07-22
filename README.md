@@ -66,6 +66,7 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BrotinSantara/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/BrotinSantara/LeetCode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/BrotinSantara/LeetCode/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/BrotinSantara/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/BrotinSantara/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
@@ -76,6 +77,7 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BrotinSantara/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/BrotinSantara/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Backtracking
 |  |
 | ------- |
@@ -100,6 +102,7 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/BrotinSantara/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BrotinSantara/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
