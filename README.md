@@ -108,4 +108,8 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BrotinSantara/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/BrotinSantara/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
