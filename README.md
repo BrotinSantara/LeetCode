@@ -57,6 +57,7 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 | [0001-two-sum](https://github.com/BrotinSantara/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/BrotinSantara/LeetCode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/BrotinSantara/LeetCode/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/BrotinSantara/LeetCode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/BrotinSantara/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BrotinSantara/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/BrotinSantara/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -103,6 +104,7 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/BrotinSantara/LeetCode/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BrotinSantara/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
