@@ -78,6 +78,7 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BrotinSantara/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/BrotinSantara/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1768-merge-strings-alternately](https://github.com/BrotinSantara/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,4 +118,8 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/BrotinSantara/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/BrotinSantara/LeetCode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
