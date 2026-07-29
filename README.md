@@ -77,6 +77,7 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/BrotinSantara/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/BrotinSantara/LeetCode/tree/master/0217-contains-duplicate) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BrotinSantara/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
@@ -128,6 +129,7 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BrotinSantara/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/BrotinSantara/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/BrotinSantara/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/BrotinSantara/LeetCode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -137,6 +139,7 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 | ------- |
 | [0141-linked-list-cycle](https://github.com/BrotinSantara/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/BrotinSantara/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/BrotinSantara/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/BrotinSantara/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/BrotinSantara/LeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BrotinSantara/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -147,4 +150,12 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 | ------- |
 | [0202-happy-number](https://github.com/BrotinSantara/LeetCode/tree/master/0202-happy-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/BrotinSantara/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/BrotinSantara/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/BrotinSantara/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
