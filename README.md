@@ -55,6 +55,7 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BrotinSantara/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/BrotinSantara/LeetCode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/BrotinSantara/LeetCode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/BrotinSantara/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/BrotinSantara/LeetCode/tree/master/0283-move-zeroes) |
@@ -112,6 +113,7 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BrotinSantara/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/BrotinSantara/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/BrotinSantara/LeetCode/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/BrotinSantara/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -139,6 +141,7 @@ I regularly solve LeetCode problems to improve consistency and problem-solving a
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BrotinSantara/LeetCode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/BrotinSantara/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/BrotinSantara/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/BrotinSantara/LeetCode/tree/master/0148-sort-list) |
